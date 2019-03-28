@@ -8,6 +8,6 @@
 
 </head>
 <body>
-    <h2>Welcome to Petadata</h2>
+    <h2>Welcome to Petadata's development branch</h2>
 </body>
 </html>
