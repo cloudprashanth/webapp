@@ -1,4 +1,4 @@
-[200~node{
+node{
    stage('SCM Checkout'){
         git branch: 'f1', url: 'https://github.com/itzprashanth/webapp.git'
 	   }
