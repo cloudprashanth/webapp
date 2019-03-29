@@ -1,5 +1,6 @@
 ## Web Project
 Packaging this file will give a war file as artifact
+
 In this Demo, I used an instance of 10Gb ram, 12GB sdd and ubuntu 16.04 on GCP
 On creating the instance, update the packages and install docker.
 For Jenkins container, I used a custom image which has Jenkins, git, maven in it.
