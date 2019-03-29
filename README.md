@@ -15,6 +15,4 @@ docker run -d -p 8081:8081 --name nexus nexus3
 Create a sonarqube container
 docker run -d -p 9000:9000 -p 9092:9092 --name sonarqube sonarqube
 
-Now login to Jenkins and create a pipeline job.
-Please select build is parameterized and select name as Choice and parameters as Dev and Prod
- 
+
